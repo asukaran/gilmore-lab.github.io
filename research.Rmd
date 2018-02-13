@@ -166,6 +166,19 @@ Moriarty, P. M., Vigeant, M. C., Liu, P., Gilmore, R., Wolf, R., & Cole, P. M. (
 
 This project has received support from the Penn State [Social Sciences Research Institute](http://ssri.psu.edu) and the National Institute of Mental Health under [R21-MH-104547](http://projectreporter.nih.gov/project_info_description.cfm?aid=8891792&icde=26075719&ddparam=&ddvalue=&ddsub=&cr=2&csb=default&cs=ASC).
 
+## Brain Behavior Meta-analysis Project
+
+Summary
+
+**Collaborators**
+
+-Charmi Mehta, Penn State
+
+**Materials**
+
+- [Herculano-Houtzel Paper & Data](http://dx.doi.org/10.1159/000437413)
+- [Evolutoon of Self-Control Data](http://dx.doi.org/10.1073/pnas.1323533111)
+
 ## Eye Tracking Technologies to Characterize and Optimize Visual Attending in Down Syndrome
 
 Down Syndrome (DS) is the most common known genetic origin of intellectual disability and has an estimated incidence of 1 in every 1000 live births. Such children face unique challenges as they enter into the school years, because the speech that was previously adequate for communication with familiar partners in supportive settings is often not sufficient for academic communication with unfamiliar partners. Indeed, 95% of parents surveyed reported that their children with DS had difficulty being understood by persons outside their immediate social circle (Kumin, 1994). This has significant implications for academic, social, and vocational success; children with limited language skills are at risk of falling behind nondisabled peers academically and experiencing social isolation. Secondary issues often arise when children experience frustration in communication, commonly in the form of challenging behaviors. All aspects of development are further compromised when these behaviors involve aggression toward others, have significant health implications when they are self-injurious, and exacerbate service costs when they necessitate extensive behavior management plans. Children with DS are in desperate need of communication interventions that provide them with the tools to succeed throughout the school years. One form of intervention is called aided augmentative and alternative communication (AAC). In typical clinical applications, aided AAC systems employ picture books, tablet-style computers that present the user with graphic symbols, and sometimes text or synthesized voice output. Because AAC relies on vision rather than sound/speech for access to the communication messages, it is critical to map out how children with DS examine and extract information from visual AAC displays. Otherwise there is the risk of implementing systems that are poorly matched to children's skills and needs, a practice that in turn results in limited use or abandonment of the system. Few current AAC designs consider the fit between the system and the visual processing skills of users, and most are uninformed by empirical knowledge about human visual information processing. Moreover, little is known about visual processing in persons with significant communication limitations associated with DS. This research aims to improve the design of AAC displays through characterization of visual attention patterns to different AAC displays and their effects on functional use. Eye tracking - rarely used in DS - will reveal attention patterns/processes that typically go unrecorded in behavioral research. Our three-phase program will begin with eye tracking studies of visual attention under largely non-social laboratory conditions. In the next phase, we will introduce social interactions and record gaze path using mobile eye tracking technology. In the final phase, we will translate the knowledge gained in the laboratory studies to optimize functional communication in individuals with DS in performing tasks that represent typical daily life activities.
